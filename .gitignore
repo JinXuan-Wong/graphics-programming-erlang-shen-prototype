@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+Release/
+GPAssignment/x64/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
